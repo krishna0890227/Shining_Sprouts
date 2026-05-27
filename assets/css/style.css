@@ -76,6 +76,16 @@ h1, h2, h3, h5 {
 }
 /* form-fill */
 
+.btn-outline-success {
+    color: #146c43;
+    border-color: #146c43;
+}
+
+#contactus {
+    background-color: #ffffff; /* or any solid light/dark base */
+    color: #212529; /* strong readable text */
+}
+
 .form-fill{
     color: #3a3a3a;
     margin:2rem;
