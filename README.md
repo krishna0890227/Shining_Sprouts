@@ -69,7 +69,7 @@ Users of this website will be able to find all the information they need to know
       * Once the master branch has been selected, the page provided the link to the completed website.
    
   The live link can be found here  - [Shining Sprouts](https://krishna0890227.github.io/Shining_Sprouts)
-![Chrome_Scoring_test](https://github.com/user-attachments/assets/8575649d-2a20-409a-82f1-ea5e17afbe68)
+![Chrome_Scoring_test](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/lighthouse_100_1.jpg?raw=true)
   **Checked with incognito version of chrome**
 ![incognito_chrome_scoring](https://github.com/user-attachments/assets/2bb98fad-f9c7-4c71-a8d2-7a7d4e2f1cd9)
 
