@@ -23,6 +23,8 @@ body {
 #logo {
     margin:5px;
     left: 10px;
+    height: 40px;
+    width:auto;
 }
 
 /* Start Navigation Section */
@@ -30,6 +32,10 @@ nav {
     background-color:darkgreen;
     font-family:'Courier Prime', Courier, monospace
 }
+
+.navbarNav {
+     gap: 10px;
+} 
 
 
 h1, h2, h3, h5 { 
@@ -47,17 +53,17 @@ h1, h2, h3, h5 {
 
 }
 .table-text {
-    font-size: 1rem;
+    font-size: 1.4rem;
     color: #3a3a3a;
 }
 
 #contactus{
     color:green;
-    background-color:lightcoral;
+    background-color:whitesmoke;
 }
 
 #sign-up {
-    background-color:whitesmoke;
+    background-color:lightgray;
 }
 
 #signup-btn {
@@ -76,9 +82,15 @@ h1, h2, h3, h5 {
 }
 /* form-fill */
 
-.btn-outline-success {
+/* .btn-outline-success {
     color: #146c43;
     border-color: #146c43;
+
+} */
+
+.btn-outline-success {
+    color: #0a4d2e;
+    border-color: #0a4d2e;
 }
 
 #contactus {
@@ -92,6 +104,12 @@ h1, h2, h3, h5 {
 .form-fill{
     color: #3a3a3a;
     margin:2rem;
+}
+
+#table-background{
+    background-color: whitesmoke;
+    padding:10%;
+    font-size:150%;
 }
 #social-networks {
     text-align: center;
