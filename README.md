@@ -1,5 +1,16 @@
-<h1 >Shining Sprouts Academy </h1>
-<img src="https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/logo.png?raw=true" alt = "logo">
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/logo.png?raw=true"
+           alt="Shining Sprouts Academy Logo"
+           width="80">
+    </td>
+    <td width="10"></td>
+    <td>
+      <h1>Shining Sprouts Academy</h1>
+    </td>
+  </tr>
+</table>
 The Shining Sprouts Academy website is a landing page for parents who having baby less than three years old. The service academy offers caring and safety activities to develop their growing health. 
 
 Users of this website will be able to find all the information they need to know about child care services, servicing hours, pricing, contact information, and a signup form. Our goal is to service working parents who want someone to care for their babies. 
