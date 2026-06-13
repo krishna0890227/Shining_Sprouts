@@ -104,16 +104,17 @@ Visit this link:
 **Color**
 
 The following colors are used for making this website: 
-- Primary Color
-- Secondary Color
-- Background Color
-- Text Color 
+- Primary Color: DarkGreen
+- Secondary Color: DarkGray
+- Background Color: WhiteSmoke
+
 
 **Text**
 
 The following text and its style are used for this website:
-- Header
-- paragraph
+- Header Text Family: Courier Prime', Courier, monospace
+- Body Text Family: Courier Prime", monospace
+- Font-size: 1rem
 
 **Images**
 
