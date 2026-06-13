@@ -11,7 +11,7 @@
 Our goal is to support working parents who need someone to care for their babies.
 [Visit our webpage](https://krishna0890227.github.io/Shining_Sprouts/) 
 , which is a landing page for parents who having baby less than three years old. The service academy offers caring and safety activities to develop their growing health. Users of this website will be able to find all the information they need to know about child care services, servicing hours, pricing, contact information, and a signup form. Our goal is to service working parents who want someone to care for their babies. 
-
+You can find fully flexible website in Mobile and Desktop version as below. 
 
 
 ![Mobile and PC](https://github.com/user-attachments/assets/57f5466e-44c2-4baa-a7de-36449d445b94)
@@ -22,7 +22,16 @@ Our goal is to support working parents who need someone to care for their babies
 ---
 # Table of Contents
 <details>
-<summary><b>1. Features</b></summary>
+<summary><b>1. UX</b></summary>
+
+- [Goals](#goals)
+- [Wireframe](#wireframe)
+- [Colors, Text, and Images](#colorstextandimages)
+- [Icon and Styles](#IconandStyles)
+
+</details>
+<details>
+<summary><b>2. Features</b></summary>
 
 - [Navigation](#navigation)
 - [Headers](#headers)
@@ -32,7 +41,7 @@ Our goal is to support working parents who need someone to care for their babies
 
 </details>
 <details>
-<summary><b>2. Testing and Bugs </b></summary>
+<summary><b>3. Testing and Bugs </b></summary>
   
 - [Testing](#testing)
 - [Solved Bugs](#solved-bugs)
@@ -40,13 +49,79 @@ Our goal is to support working parents who need someone to care for their babies
 - [Unfixed Bugs](#unfixed-bugs)
 </details>  
 <details>
-<summary><b>3. Deployment</b></summary>
+<summary><b>4. Deployment</b></summary>
   
 - [Web Deployment](#web-deployment)
 - [Credits](#credits)
 - [Media](#media)
 </details> 
 
+# UX
+
+## Goals
+
+**Visitor Goals**
+
+The target audience for Shining Sprouts Academy are:
+- Parents looking for a safe and nurturing childcare centre for their children aged 0–3 years.
+- Parents seeking qualified and experienced childcare professionals.
+- Families interested in learning about childcare programs and daily activities.
+- Parents who want information about safety standards, regulations, and staff training.
+- Families interested in enrolling their children and arranging a visit to the centre.
+  
+**User Goals**
+- Learn about the childcare services and age-specific rooms available.
+- Understand the centre's approach to child development and learning.
+- View information about staff qualifications, training, and safety procedures.
+- Find details about meals, childcare supplies, and daily schedules.
+- Contact the centre for enquiries, enrolment, or to schedule a visit.
+
+**Shining Sprouts Academy Fills These Needs By**
+- Providing a welcoming homepage that introduces the childcare centre and its values.
+- Clearly displaying the available rooms, age groups, and session times.
+- Highlighting staff qualifications, training, and commitment to child safety.
+- Providing information about nutritious hot meals and childcare supplies included.
+- Demonstrating compliance with HSE, TUSLA, and other regulatory requirements.
+- Offering easy-to-find contact information and enrolment details.
+- Showcasing a safe, caring, and stimulating environment for young children.
+
+**Business Goals**
+
+The Business Goals of Shining Sprouts Academy are:
+
+- Promote the childcare centre as a trusted and professional childcare provider.
+- Increase enrolment for children aged 0–3 years.
+- Build trust with parents through transparency about safety and qualifications.
+- Showcase the quality of care, facilities, and educational activities offered.
+- Provide simple ways for families to contact the centre and arrange visits.
+- Establish a positive reputation within the local community.
+
+## WireFrames
+Visit this link:
+
+## Color, Text, and Images
+
+**Color**
+The following colors are used for making this website: 
+- Primary Color
+- Secondary Color
+- Background Color
+- Text Color 
+**Text**
+The following text and its style are used for this website:
+- Header
+- paragraph
+
+**Images**
+The following images are used for developing a website. 
+
+ ## Icon and Styles
+
+ **Icon**
+ -Social Media link
+
+ **Styles**
+ - For this project I have utilised Bootstrap 5.33 source files to override their class defaults to my liking, making customisation much easier. 
 # Features
 
 ## Navigation
@@ -70,7 +145,7 @@ Our goal is to support working parents who need someone to care for their babies
 
 ## Sign Up
   * The sign-up section has a form to collect details from parents so they can sign up to join the academy.
-  * The form collects the baby's name, and parent/guardian's name, and an email address.
+  * The form collects the baby's name, the parent/guardian's name, and an email address.
 
 ![signup](https://github.com/user-attachments/assets/b892ca79-10ce-4926-8b71-5e41ba8e221b)
 
