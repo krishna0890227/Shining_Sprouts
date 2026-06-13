@@ -14,7 +14,7 @@ Our goal is to support working parents who need someone to care for their babies
 You can find fully flexible website in Mobile and Desktop version as below. 
 
 
-![Mobile and PC](https://github.com/user-attachments/assets/57f5466e-44c2-4baa-a7de-36449d445b94)
+![Mobile and PC](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/1_title_figure.jpg?raw=true)
 
 🔗 **Visit Our Website at:**  
 [https://krishna0890227.github.io/Shining_Sprouts/](https://krishna0890227.github.io/Shining_Sprouts/)
@@ -102,23 +102,38 @@ Visit this link:
 ## Color, Text, and Images
 
 **Color**
+
 The following colors are used for making this website: 
 - Primary Color
 - Secondary Color
 - Background Color
 - Text Color 
+
 **Text**
+
 The following text and its style are used for this website:
 - Header
 - paragraph
 
 **Images**
+
 The following images are used for developing a website. 
+<p align="center">
+  <img src="assets/images/childcare_img1.jpg" alt="First ChildCare Image" style="width:40%;" />
+  <img src="assets/images/childcare_img2.jpg" alt="Second ChildCare Image" style="width:40%;" />
+  <img src="assets/images/childcare_img3.jpg" alt="Third ChildCare Image" style="width:40%;" />
+  <img src="assets/images/childcare_img4.avif" alt="Fourth ChildCare Image" style="width:40%;" />
+</p>
 
  ## Icon and Styles
 
  **Icon**
- -Social Media link
+ 
+ -Social media icons used from [Fontawesome](https://fontawesome.com/icons) webpage. 
+ 
+ **Social Media**
+ - Updated in Social Media, including Facebook, Twitter, YouTube, and Instagram. 
+  ![Social Media Link](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/6_social_links.jpg?raw=true)
 
  **Styles**
  - For this project I have utilised Bootstrap 5.33 source files to override their class defaults to my liking, making customisation much easier. 
@@ -135,26 +150,27 @@ The following images are used for developing a website.
   * The header shows the name of the academy, using the other color chosen: Green. And continuing the computer code font theme.
   * The header explains the academy is for babies aged 0-3 years old.
   * The section provides the user with clear information about what the site is and who the academy it is for.
-![nav and header](https://github.com/user-attachments/assets/57f5466e-44c2-4baa-a7de-36449d445b94)
+    
+![nav and header](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/2_navigation_bar.jpg?raw=true)
 
   
 ## About Us
   * This section shows the user the important information they need to know about the academy: What they offer and when they are open for different age groups.
        
-![aboutus](https://github.com/user-attachments/assets/68991424-8d8f-410a-af31-203717929786)
+![aboutus](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/3_about_us.jpg?raw=true)
 
 ## Sign Up
   * The sign-up section has a form to collect details from parents so they can sign up to join the academy.
   * The form collects the baby's name, the parent/guardian's name, and an email address.
 
-![signup](https://github.com/user-attachments/assets/b892ca79-10ce-4926-8b71-5e41ba8e221b)
+![signup](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/5_signup.jpg?raw=true)
 
 ## Contact Us
   * The contact section encourages users to get in contact and provides a phone number, email address and street address where they can be found. 
 * The contact section includes social media icons to users can find the academy information on Facebook, Twitter and  Instagram.
 * The contact section is valuable to the user as it gives them the ability to find and contact the academy if they need to.
           
-![contactus](https://github.com/user-attachments/assets/ccea63f6-c271-4c4d-8d8e-c1cbdb55f9ad)
+![contactus](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/7_Contact_us.jpg?raw=true)
 
   # Testing and Bugs
 
@@ -193,13 +209,15 @@ The following images are used for developing a website.
       * Once the master branch has been selected, the page provided the link to the completed website.
    
   The live link can be found here  - [Shining Sprouts](https://krishna0890227.github.io/Shining_Sprouts)
-![Chrome_Scoring_test](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/lighthouse_100_1.jpg?raw=true)
-  **Checked with incognito version of chrome**
-![incognito_chrome_scoring](https://github.com/user-attachments/assets/2bb98fad-f9c7-4c71-a8d2-7a7d4e2f1cd9)
+![Accessiblity Score](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/lighthouse_100_1.jpg?raw=true)
+ 
 
 ## Credits
+
 **Content**
+
 * The code to make the social media links was taken from the [Love Running Project](https://github.com/krishna0890227/love-running)
 
 ## Media
+
 * The image in the header was taken from [Adobe Stocks](https://stock.adobe.com/ie/search?k=children+playing). 
