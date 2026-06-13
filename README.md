@@ -10,8 +10,8 @@
 
 Our goal is to support working parents who need someone to care for their babies.
 [Visit our webpage](https://krishna0890227.github.io/Shining_Sprouts/) 
-, which is a landing page for parents who having baby less than three years old. The service academy offers caring and safety activities to develop their growing health. Users of this website will be able to find all the information they need to know about child care services, servicing hours, pricing, contact information, and a signup form. Our goal is to service working parents who want someone to care for their babies. 
-You can find fully flexible website in Mobile and Desktop version as below. 
+, which is a landing page for parents who have a baby less than three years old. The service academy offers caring and safe activities to develop their growing health. Users of this website will be able to find all the information they need to know about child care services, service hours, pricing, contact information, and a signup form. Our goal is to serve working parents who want someone to care for their babies. 
+You can find a fully flexible website in the Mobile and Desktop versions as follows. 
 
 
 ![Mobile and PC](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/1_title_figure.jpg?raw=true)
@@ -62,7 +62,7 @@ You can find fully flexible website in Mobile and Desktop version as below.
 
 **Visitor Goals**
 
-The target audience for Shining Sprouts Academy are:
+The target audience for Shining Sprouts Academy is:
 - Parents looking for a safe and nurturing childcare centre for their children aged 0–3 years.
 - Parents seeking qualified and experienced childcare professionals.
 - Families interested in learning about childcare programs and daily activities.
@@ -80,7 +80,7 @@ The target audience for Shining Sprouts Academy are:
 - Providing a welcoming homepage that introduces the childcare centre and its values.
 - Clearly displaying the available rooms, age groups, and session times.
 - Highlighting staff qualifications, training, and commitment to child safety.
-- Providing information about nutritious hot meals and childcare supplies included.
+- Providing information about nutritious hot meals and childcare supplies is included.
 - Demonstrating compliance with HSE, TUSLA, and other regulatory requirements.
 - Offering easy-to-find contact information and enrolment details.
 - Showcasing a safe, caring, and stimulating environment for young children.
@@ -137,20 +137,20 @@ The following images are used for developing a website.
   ![Social Media Link](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/6_social_links.jpg?raw=true)
 
  **Styles**
- - For this project I have utilised Bootstrap 5.33 source files to override their class defaults to my liking, making customisation much easier. 
+ - For this project, I have utilised Bootstrap 5.33 source files to override their class defaults to my liking, making customisation much easier. 
 # Features
 
 ## Navigation
 
-  * Featured at the top of the page, the navigation shows the name of the academy: Shining Sprouts Academy which links to the top of the page.
-* The other navigation links are to the right:  About us, Sign up and Contact which links to a different section of the same page.
+  * Featured at the top of the page, the navigation shows the name of the academy: Shining Sprouts Academy, which links to the top of the page.
+* The other navigation links are to the right:  About us, Sign up, and Contact, which link to a different section of the same page.
 * The navigation is in a font that looks like code, and a color that contrasts with the background.
-* The navigation clearly tells the user the name of the academy and website and makes the different sections of information easy to find.
+* The navigation clearly tells the user the name of the academy and website, and makes the different sections of information easy to find.
 
 ## Headers
   * The header shows the name of the academy, using the other color chosen: Green. And continuing the computer code font theme.
   * The header explains the academy is for babies aged 0-3 years old.
-  * The section provides the user with clear information about what the site is and who the academy it is for.
+  * The section provides the user with clear information about what the site is and for whom the academy is for.
     
 ![nav and header](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/2_navigation_bar.jpg?raw=true)
 
@@ -189,7 +189,7 @@ The following images are used for developing a website.
 * I discovered that /a is outside after the table tag.
     ![unknown _a_letter](https://github.com/user-attachments/assets/0cfb1c01-1eb0-43ab-a5d1-17029575ea10)
 
-  * Removing the /a and fixed the problem.
+  * Removed the /a and fixed the problem.
 ![validator_check](https://github.com/user-attachments/assets/55084327-b920-4fe9-a2ab-d8d6e4eaeb9a)
 
 ## Validator Testing
@@ -199,7 +199,8 @@ The following images are used for developing a website.
 * **CSS**
     * No errors were found when passing through the official (jigsaw) validator
 * **Accessibility**
-  * I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse  in devtools.
+  * I confirmed that the colors and fonts chosen are easy to read and accessible by running it through Lighthouse  in devtools.
+![Accessiblity Score](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/lighthouse_100_1.jpg?raw=true)
 
 ## Unfixed Bugs
   * No unfixed bugs.
@@ -208,14 +209,13 @@ The following images are used for developing a website.
 
 ## Web Deployment
   * The site was deployed to GitHub pages. The steps to deploy are as follows:
-      * In the Github repository, navigate to the Setting tab.
-      * From the source section drop-down menu, Select the Main Branch
-      * Once the master branch has been selected, the page provided the link to the completed website.
+      * In the GitHub repository, navigate to the Settings tab.
+      * From the source section drop-down menu, select the Main Branch
+      * Once the master branch has been selected, the page provides the link to the completed website.
    
   The live link can be found here  - [Shining Sprouts](https://krishna0890227.github.io/Shining_Sprouts)
-![Accessiblity Score](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/lighthouse_100_1.jpg?raw=true)
- 
 
+ 
 ## Credits
 
 **Content**
