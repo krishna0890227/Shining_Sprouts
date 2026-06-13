@@ -165,6 +165,9 @@ The following images are used for developing a website.
 
 ![signup](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/5_signup.jpg?raw=true)
 
+  * Testing form submission using baby name and family details.
+    
+    ![baby form submission](https://github.com/krishna0890227/Shining_Sprouts/blob/main/assets/images/8_Form_submitted.jpg?raw=true)
 ## Contact Us
   * The contact section encourages users to get in contact and provides a phone number, email address and street address where they can be found. 
 * The contact section includes social media icons to users can find the academy information on Facebook, Twitter and  Instagram.
