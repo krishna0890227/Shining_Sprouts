@@ -90,14 +90,14 @@ The target audience for Shining Sprouts Academy is:
 The Business Goals of Shining Sprouts Academy are:
 
 - Promote the childcare centre as a trusted and professional childcare provider.
-- Increase enrolment for children aged 0–3 years.
+- Increase enrolment for children aged 1–3 years.
 - Build trust with parents through transparency about safety and qualifications.
 - Showcase the quality of care, facilities, and educational activities offered.
 - Provide simple ways for families to contact the centre and arrange visits.
 - Establish a positive reputation within the local community.
 
 ## WireFrames
-Visit this link:
+- [Visit this link](https://drive.google.com/file/d/1zuhW4-kW9yZnD_P-gH4C6L8Cn16H1drT/view?usp=sharing)
 
 ## Color, Text, and Images
 
